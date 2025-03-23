@@ -36,7 +36,7 @@ A modern web application built with React, TypeScript, and Vite, featuring a bea
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/cursortest.git
+git clone https://github.com/Ssajaia/Kspeed
 cd cursortest
 ```
 
